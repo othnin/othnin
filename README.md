@@ -1,8 +1,19 @@
 # Othnin
 
-Hi there! 👋 I'm a developer working with Machine Learning and IoT projects, specializing in environmental monitoring solutions.
+Hi there! 👋 I'm a developer working with Machine Learning, Web Stacks and IoT projects,
 
 ## 🔭 Featured Projects
+
+### Machine Learning Algorithms
+ - Various Machine Learning Algorithms
+ - LLM's
+
+### 🤖 Machine Learning Web Stack
+A web application that demonstrates various ML capabilities:
+- Interactive model training and prediction
+- Data visualization and analysis tools
+- Model performance metrics
+- User-friendly interface for ML experimentation
 
 ### 🌊 Raspberry Pi Water Sensor System
 An IoT-based water quality monitoring system built with Raspberry Pi that:
@@ -11,12 +22,6 @@ An IoT-based water quality monitoring system built with Raspberry Pi that:
 - Provides automated alerts and monitoring
 - Features a web-based dashboard for data visualization
 
-### 🤖 Machine Learning Web Application
-A web application that demonstrates various ML capabilities:
-- Interactive model training and prediction
-- Data visualization and analysis tools
-- Model performance metrics
-- User-friendly interface for ML experimentation
 
 ## 💻 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
